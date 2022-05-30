@@ -1,0 +1,16 @@
+1. false
+2. true
+3. 3
+4. 3
+5. false
+6. true
+7. false
+8. false
+9. false
+10. true
+11. false
+12. (!true || (!20 === 20) || (82 === 82)) || false
+    (false || (false === 20) || true) || false
+    (false || true) || false
+    true || false
+    true
